@@ -1,0 +1,34 @@
+Charowedza	Ruwarashe	5
+Kozlov	Mykhailo	5
+Masiiwa	Plaxedes	2
+Mupfumira	Tadiwa	5
+Orifjonov	Umar	3
+Oyefara	Damilare	5
+Palamoottil Biju	Aron	4
+Parusov	Tomas	3
+Puhach	Kyrylo	3
+Rojob	G M Robi	2
+Roy	Saniya	2
+Rudzenia	Aliaksandr	2
+Rybka	Denys	2
+Ryzhyk	Vladyslav	3
+Shadybekov	Emir	3
+Shcherbakov	Oleh	2
+Sialitski	Bagdan	5
+Sonin	Vadym	2
+Soroka	Arsenii	2
+Steshenko	Oleksandr	3
+Sukhomlyn	Danylo	3
+Sunnatullaev	Kamronbek	3
+Thekkevallyara	Alan	4
+Toktonaliev	Erzhan	3
+Tolubaev	Daniyar	5
+Tsitarenka	Viktoryia	5
+Vazhakal	Manuel	5
+Velychko	Ihor	2
+Volkov	Illia	4
+Yevchuk	Mykyta	5
+Yuhai	Artem	2
+Yun	Kyrylo	5
+Zhanabergen	Gulfarida	3
+Ziki	Joseph	2
